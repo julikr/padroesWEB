@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+	<head>
+		<title>.:: MEU SITE . COM . BR::. </title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+    <!-- titulos -->
+        <h1> MEGA ULTRA Maior </h1>
+        <h2> MEGA maior</h2>
+        <h3> maior</h3>
+        <h4> medio</h4>
+        <h5>menor</h5>
+		<p>Minha escrita.... sjkdslkajd sdjksaljd</p>
+        
+        <!-- Solicitei atividade em aula         
+        buscar materia na internet sobre site de notícias e formatar ele aqui
+        -->
+        <div>
+            <h1>Libertadas de circos, elefantas se reconhecem após 22 anos</h1>
+            <p>Dizem que <strong>elefantes não esquecem</strong>, não é mesmo? <em>Mais de duas décadas atrás</em>, <mark>Shirley e Jenny</mark> se conheceram se apresentando em um circo no Texas (EUA). <blockquote>Mas as elefantas acabaram separadas.</blockquote> </p>
+    
+            <p>Vinte e dois anos depois, as paquidermes voltaram a se encontrar, em um santuário para animais em Hohenwald (Tennessee, EUA). E provaram que uma não se esqueceu da outra. </p>
+        
+            <p>No primeiro contato, Shirley e Jenny trocaram carinhos e mataram a saudade. Agora, protegidas, são inseparáveis.</p>
+        </div>
+        <div>
+            <h1>Exercicio 2 - Lamborghini</h1>
+            <p>Lançada oficialmente no salão do automóvel de Genebra na última semana, a Lamborghini Huracán já tem 1 mil pedidos, segundo o CEO da marca, Stephan Winkelmann. Os pedidos começaram a ser feitos há cerca de dois meses e já atingiram o número de unidades da Gallardo vendidas o ano passado (1.009) e quase batem a Aventador, que teve 1.113 emplacamentos em 2013.</p>
+            <hr/>
+            <p>Winkelmann também antecipou que o SUV Urus já está confirmado para entrar em produção. No entanto, o "chefe" de Winkelmann, presidente do grupo Audi AG, Rupert Stadler, foi mais contido ao ser questionado sobre o modelo apresentado pela primeira vez em forma de conceito no salão de Pequim de 2012. "Estamos trabalhando nisso, e anunciaremos quando for oportuno", disse o chairman do grupo que reúne Lamborghini e Ducati, além da marca das quatro argolas.</p>
+        </div>
+	</body>
+
+</html>
